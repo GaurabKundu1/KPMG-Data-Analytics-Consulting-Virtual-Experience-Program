@@ -1,4 +1,4 @@
-# KPMG-Data-Analytics-Virtual-Experience-Program
+# KPMG-Data-Analytics-Consulting-Virtual-Experience-Program
 
 Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation, needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
 
